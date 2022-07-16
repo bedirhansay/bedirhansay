@@ -10,6 +10,20 @@ My name is Bedirhan Say and I'm a Data Scientist. I'm from Turkey, living in Ist
 * ✉️  You can contact me at [bedirhan.sayy@outlook.com](mailto:bedirhan.sayy@outlook.com)
 * 🧠  I'm learning urrently working on developing new classification algorithms.
 
+💻 Programming Languages
+Python HTML CSS Markdown SQL
+
+🧰 Frameworks and Libraries
+
+TensorFlow NumPy Pandas Keras Scikit-learn Pytorch Selenium Requests Matplotlib Seaborn Plotly 
+
+🗄️ Databases and cloud hosting
+ PostgreSQL MySQL MongoDB SQLite 
+
+🔧 Software, Technologies and tools
+
+OS-Linux IDE-Pycharm IDE-Visualstudio Lab PDP-Anaconda VIDE-JupyterNotebook 
+
 ### Skills
 
 <p align="left">
