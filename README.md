@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bedirhan Say
 ====================================================================================================================================
 
- I'm working as a Data Scientist and Frontend developer. I'm from Turkey, living in Istanbul and currently pursuing work in Data Science. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br><br>🌍  I'm based in Istanbul. <br>🔭 I'm currently working on Next.js. <br>✉️  You can contact me at bedirhan.sayy@outlook.com<br>⭐️  See our product <br>↪  /www.romasolution.com | www.medio.app
+ I'm working as a Data Scientist and Frontend developer. I'm from Turkey, living in Istanbul and currently pursuing work in Data Science. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br><br>🌍  I'm based in Istanbul. <br>🔭 I'm currently working on Next.js. <br>✉️  You can contact me at bedirhan.sayy@outlook.com<br>⭐️  See our product <br>↪  /www.romasolution.com | www.medioapp.com
 
 
 ## 🌐 Socials:
