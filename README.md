@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-✨ Currently I'm working on React Native , bedirhansay<br>🖥/ Frontend Development<br>✉️  You can contact me at bedirhan.sayy@outlook.com<br>
+✨ Currently I'm working on React Native ,/ Frontend Development<br>✉️  You can contact me at bedirhan.sayy@outlook.com<br>
 
 
 ## 🌐 Socials:
