@@ -2,11 +2,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-✨ Frontend Developer | React & React Native Enthusiast  
-🚀 Passionate about building scalable and user-friendly interfaces  
-🔭 Currently working with React Native and modern frontend ecosystems  
-📫 Reach me at: bedirhan.sayy@outlook.com  
-🌍 Istanbul, Turkey  
+🏁 I’m currently working on
+A modular financial app with multi-tenant support, built with React, React Native, and NestJS.
+
+👯 I’m looking to collaborate on
+Open source frontend libraries, design systems, and scalable mobile-first products.
+
+🤝 I’m looking for help with
+Backend architecture best practices in NestJS and scalable authentication strategies.
+
+🌱 I’m currently learning
+Advanced React Native navigation patterns and DevOps automation (CI/CD pipelines).
+
+💬 Ask me about
+React, React Native, Node.js, NestJS, Firebase, state management, and clean UI architecture.
+
+⚡ Fun fact
+I once built a mini ERP system just to automate my own freelance project invoices. Productivity is a hobby
 
 
 ## 🌐 Socials:
