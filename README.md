@@ -1,20 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bedirhan Say
-====================================================================================================================================
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1200&pause=1500&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bedirhan+Say;Frontend+Lead+%7C+Fullstack+Engineer;Building+Scalable+SaaS+Architectures;React+%E2%80%A2+NestJS+%E2%80%A2+React+Native" />
 
-🏁 I’m currently working on
-A modular financial app with multi-tenant support, built with React, React Native, and NestJS.
-👯 I’m looking to collaborate on
-Open source frontend libraries, design systems, and scalable mobile-first products.
-🤝 I’m looking for help with
-Backend architecture best practices in NestJS and scalable authentication strategies.
-🌱 I’m currently learning
-Advanced React Native navigation patterns and DevOps automation (CI/CD pipelines).
-💬 Ask me about
-React, React Native, Node.js, NestJS, Firebase, state management, and clean UI architecture.
-⚡ Fun fact
-I once built a mini ERP system just to automate my own freelance project invoices. Productivity is a hobby
+</div>
 
+---
+
+## 🚀 About Me
+
+- 💻 **Frontend Team Lead & Fullstack Engineer**
+- 🏗 Designing and building **multi-tenant SaaS systems** (finance & ERP domain)
+- ⚙️ Focused on **scalability, system design, and clean architecture**
+- 🧠 Working across **frontend, backend, and infrastructure layers**
+- 📍 Based in Turkey  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bedirhansay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bedirhansaay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedirhansay) 
