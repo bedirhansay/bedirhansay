@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1200&pause=1500&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Bedirhan+Say;Frontend+Lead+%7C+Fullstack+Engineer;Building+Scalable+SaaS+Architectures;React+%E2%80%A2+NestJS+%E2%80%A2+React+Native" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1200&pause=1500&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bedirhan+Say;Frontend+Lead+%7C+Fullstack+Engineer;Building+Scalable+Multi-Tenant+SaaS;React+•+NestJS+•+React+Native" />
 
 </div>
 
@@ -9,30 +9,40 @@
 ## 🚀 About Me
 
 - 💻 **Frontend Team Lead & Fullstack Engineer**
-- 🏗 Designing and building **multi-tenant SaaS systems** (finance & ERP domain)
-- ⚙️ Focused on **scalability, system design, and clean architecture**
-- 🧠 Working across **frontend, backend, and infrastructure layers**
-- 📍 Based in Turkey  
+- 🏗 Architecting and developing **multi-tenant SaaS platforms** (Finance / ERP)
+- ⚙️ Specialized in **scalable frontend architectures, state management, and API design**
+- 🔁 Experienced in **end-to-end systems (FE + BE + infra integration)**
+- 📈 Focused on **performance, maintainability, and developer experience**
+- 📍 Turkey
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bedirhansay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bedirhansaay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedirhansay) 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedirhansay)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bedirhansaay)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bedirhansay)
+
+---
 
 ## ⚙️ Tech Stack
 
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind" />
 </p>
 
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,mongodb,redis" />
 </p>
 
+### Mobile & Design
 <p>
 <img src="https://skillicons.dev/icons?i=react,figma,androidstudio" />
 </p>
 
+### DevOps & Infra
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,linux" />
 </p>
@@ -49,6 +59,5 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bedirhansay&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=bedirhansay&icon=0&color=1)](https://visitcount.itsvg.in)
