@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bedirhansay/bedirhansay/main/assets/profile.png" width="150" />
-
-</div>
-
----
 
 ## 🚀 About Me
 
