@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1200&pause=1500&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bedirhan+Say;Frontend+Lead+%7C+Fullstack+Engineer;Building+Scalable+Multi-Tenant+SaaS;React+•+NestJS+•+React+Native" />
+<img src="https://raw.githubusercontent.com/bedirhansay/bedirhansay/main/assets/profile.png" width="150" />
 
 </div>
 
