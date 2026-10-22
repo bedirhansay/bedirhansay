@@ -51,6 +51,7 @@ I lead frontend teams, set architecture standards and take products from schema 
 | Project | What it is | Stack |
 |---|---|---|
 | **[biHesap Kahya](https://kahya.bihesap.co)** | A multi-tenant office management SaaS, live in production. It covers customers, accounts, sales, stock, offers, a mail center, tasks, documents and AI assistant tools. Paid modules can be switched on and off, and the core keeps working either way. | NestJS · Prisma · PostgreSQL · React · TanStack Query · OpenAPI · Docker |
+| **[Citio](https://citioapp.com/tr)** | A live travel and experience booking platform: tours, eSIM packages, food experiences, transfers and activities. It covers search, multi-step booking, payments and vendor management, with Next.js SSR for SEO-critical pages. | Next.js · React · TypeScript · Node.js · PostgreSQL · MUI · Ant Design |
 | **Torunoğlu Accounting** | An accounting system with double-entry bookkeeping, invoicing and financial reporting. | NestJS (CQRS) · MongoDB · React · AWS S3 |
 | **Orbit Core** | A platform for tenant provisioning, application lifecycle and role-based access across services. | NestJS · Prisma · PostgreSQL · React · Monaco |
 | **[Releaser](https://github.com/bedirhansay/releaser)** | AI-powered release notes. It drafts categorized, risk-annotated changelogs from refs or merged PRs. | Next.js · Prisma · Auth.js · Tailwind |
