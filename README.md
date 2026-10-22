@@ -21,7 +21,7 @@ I have 5+ years of experience building **FinTech and e-transformation platforms*
 I lead frontend teams, set architecture standards and take products from schema to production on my own infrastructure. That covers the database, the API, the UI and deployment.
 
 - 🏗 **Architecture:** feature-based frontends, OpenAPI-generated type-safe clients, and expand/contract database migrations.
-- 🧩 **Design systems:** shared component libraries that several products build on.
+- 🧩 **Design systems:** shared component libraries that several products build on (Mersel Design System).
 - 🧪 **Quality:** Playwright and BDD test automation, and release gates rehearsed against production data copies.
 - 📍 Bolu, Turkey
 
@@ -51,7 +51,6 @@ I lead frontend teams, set architecture standards and take products from schema 
 | Project | What it is | Stack |
 |---|---|---|
 | **[biHesap Kahya](https://kahya.bihesap.co)** | A multi-tenant office management SaaS, live in production. It covers customers, accounts, sales, stock, offers, a mail center, tasks, documents and AI assistant tools. Paid modules can be switched on and off, and the core keeps working either way. | NestJS · Prisma · PostgreSQL · React · TanStack Query · OpenAPI · Docker |
-| **@bedirhansay/design-system** | My own React component library. Kahya, Torunoğlu and other apps use it. It includes mobile-first overlays, sheets, pickers and touch scroll handling. | React · TypeScript · Tailwind · Storybook · Vite |
 | **Torunoğlu Accounting** | An accounting system with double-entry bookkeeping, invoicing and financial reporting. | NestJS (CQRS) · MongoDB · React · AWS S3 |
 | **Orbit Core** | A platform for tenant provisioning, application lifecycle and role-based access across services. | NestJS · Prisma · PostgreSQL · React · Monaco |
 | **[Releaser](https://github.com/bedirhansay/releaser)** | AI-powered release notes. It drafts categorized, risk-annotated changelogs from refs or merged PRs. | Next.js · Prisma · Auth.js · Tailwind |
